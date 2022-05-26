@@ -1,7 +1,0 @@
-First Name		Last Name 		Gender		Salutation		Age		Address		Phone Number		Email Address		Username		Password
-Amra		Akram		f		Miss		18		8,Mal,Gam		777888888		amraakram@gmail.com		amra		test
-a		a		f		miss		18		zahira,gampola		777555555		aa@g.com		first		123
-Amra		akram		f		miss		18		12,sjued,sh		114578236		aa@gamil.com		Amra		1256
-Amanda		Alice		f		miss		22		qstreet,florid		1547896235		amanda@gmail.com		amanda		112345
-Alice		Wonderwal		f		miss		25		western,downtown		111111145		alice@hotmail.com		alice		456
-zainab		illiyas		f		miss		18		q,djufisk,jfood		445789203		zainab@gmail.com		zainab		789
