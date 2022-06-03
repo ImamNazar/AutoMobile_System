@@ -1,6 +1,0 @@
-I_code	I_name	I_price	I_QTY
-1	a	10	50
-2	b	20	151
-3	c	30	250
-1	d	40	390
-		0	0
