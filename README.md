@@ -145,7 +145,7 @@ void auth(item inventory[100])
 
 This function is created to display a login page where user can verify the username and password correctly in order to call out the specified functions in the system. It is designed only to access by administrator. 
 
-Username = ADMIN
+Username = ADMIN / 
 Password = A001
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
